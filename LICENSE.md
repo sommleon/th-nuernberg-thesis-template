@@ -8,7 +8,7 @@ This thesis template was created as part of the Master’s degree program in Inf
 This project, including all original modifications and additions made by the author, is licensed under the MIT License.
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense and/or sell copies of the Software, subject to the conditions of the MIT License.
 
-This project uses a [LaTeX thesis template](https://github.com/riedhammer/thesis-template) originally created by Korbinian Riedhammer, licensed under the MIT License. The original license text is included below:
+This project uses a [LaTeX thesis template](https://github.com/th-nuernberg/thesis-template) originally created by Korbinian Riedhammer, licensed under the MIT License. The original license text is included below:
 
 ---
 

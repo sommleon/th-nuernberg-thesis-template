@@ -2,14 +2,14 @@
 
 A professional, ready-to-use LaTeX template for writing your thesis at Technische Hochschule Nürnberg Georg Simon Ohm.
 Includes automatic PDF building with GitHub Actions, pre-configured bibliography system, abbreviations glossary and comprehensive documentation.
-Based on [Korbinian Riedhammer's thesis template](https://github.com/riedhammer/thesis-template), but optimized und formatted further.
+Based on [Korbinian Riedhammer's thesis template](https://github.com/th-nuernberg/thesis-template), but optimized und formatted further.
 
 ---
 
 ## ✨ Features
 
 - **Professional LaTeX Setup** - Pre-configured for German academic theses
-- *10 Pre-Structured Chapters** - Introduction, literature review, background, methodology, results, contributions, discussion, conclusion, and appendices
+- **10 Pre-Structured Chapters** - Introduction, literature review, background, methodology, results, contributions, discussion, conclusion, and appendices
 - **Automatic PDF Builds** - GitHub Actions compiles PDF on every push
 - **Bibliography System** - BibTeX pre-configured with TH Nürnberg style (wmaainf.bst)
 - **Abbreviations/Glossary** - Built-in acronym management with auto-expansion
