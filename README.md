@@ -1,6 +1,6 @@
 # 🎓 Master's Thesis LaTeX Template – TH Nürnberg
 
-A professional, ready-to-use LaTeX template for writing your Master's thesis at Technische Hochschule Nürnberg Georg Simon Ohm.
+A professional, ready-to-use LaTeX template for writing your thesis at Technische Hochschule Nürnberg Georg Simon Ohm.
 Includes automatic PDF building with GitHub Actions, pre-configured bibliography system, abbreviations glossary and comprehensive documentation.
 Based on [Korbinian Riedhammer's thesis template](https://github.com/riedhammer/thesis-template), but optimized und formatted further.
 
@@ -119,11 +119,11 @@ Or in VS Code:
 
 ### Option B: GitHub Actions (Cloud Build)
 
-No local installation needed! Every push to GitHub automatically:
-- ✅ Compiles your LaTeX
-- ✅ Generates PDF
-- ✅ Creates GitHub Release with PDF attached
-
+No local installation needed! Every push/commit to GitHub automatically:
+- Compiles your LaTeX
+- Generates PDF
+- Creates GitHub Release with PDF attached
+- Download the latest PDF from [GitHub Releases](../../releases)
 ---
 
 ## 📁 Directory Structure
